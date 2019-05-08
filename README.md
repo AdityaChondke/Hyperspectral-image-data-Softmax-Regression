@@ -1,4 +1,7 @@
 # Hyperspectral-image-data-Softmax-Regression
+
+From Stratch with no inbuilt functions. 
+
 Indian Pines corrected 220 band hyperspectral data classified using softmax regression.
 
 Mathematical equations :
